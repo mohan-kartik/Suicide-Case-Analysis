@@ -1,4 +1,4 @@
-# <p align = "center"> Suicide Rate Analysis (1985 - 2016) </p>
+# <p align = "center"> Suicide Rate Analysis (1985 - 2016) </p> 
 
 <p align = "center"> <image src = 'https://github.com/mohan-kartik/Suicide-Case-Analysis/assets/42971268/11964458-f9f5-4002-80f3-99851c89bb87' ></p>
 
@@ -16,3 +16,15 @@ Sources: United Nations Development Program, World Bank, Suicide in the Twenty-F
 It has records from 1985 to mid-2016 and has 27820 observations and 10 features listed below:
 
 Country, Year, Sex, Age Group, Suicide Count, Population, HDI for Year, Gdp_per_Capita, Generation.
+
+# Conclusion:
+* In the 1980s, there was a decline in suicides. This could be due to increased awareness of suicide and mental health issues in the 1980s and better identification of people who are at risk. However, we are witnessing an increase in suicides shortly following that.
+
+* The research shows that middle-aged adults ranging in age from 30 to 60 had the most remarkable suicide rate. While the elderly and teenagers have around half the quantity of middle-aged adults, middle-aged people have roughly twice as much.
+
+* Suicide is one of the significant causes of death in adults in the United States. Suicide rates for men and women are alarmingly different. Males are more likely than females to commit suicide. Furthermore, mental health is a significant predictor of suicide.
+
+* We can also conclude that there seems to be a relation between income and suicide rate. As income increases, suicide rate decreases.
+
+# Project Site:
+https://sites.google.com/view/suiciderateanalysis
