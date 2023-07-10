@@ -17,6 +17,18 @@ It has records from 1985 to mid-2016 and has 27820 observations and 10 features 
 
 Country, Year, Sex, Age Group, Suicide Count, Population, HDI for Year, Gdp_per_Capita, Generation.
 
+
+# Questions for Analysis:
+We will try to find the answers for the following questions during our analysis -
+
+1. Which generation has the highest suicide rate?
+2. Which `country` has the most suicides cases? Which country has the least suicides cases?
+3. What is the relation between the Human Development Index (HDI) and Number of Suicide cases in the USA?
+4. Which Age group tends to Commit Suicide ?
+5. How does the GDP Per Capita affect the suicide rate?
+6. How has the Suicide Rate changed over the years?
+
+
 # Conclusion:
 * In the 1980s, there was a decline in suicides. This could be due to increased awareness of suicide and mental health issues in the 1980s and better identification of people who are at risk. However, we are witnessing an increase in suicides shortly following that.
 
